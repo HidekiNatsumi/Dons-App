@@ -1,9 +1,6 @@
->Donators App<
-
->Android Application<
-
+Donators App
+Android Application
 Many Users registration field and login field.
-
 Users can donate money.
 
--Collaboration with DokMate23
+Collaboration with DokMate23
