@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Admin_Page">
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/histBtn"
+        android:layout_width="165dp"
+        android:layout_height="201dp"
+        android:background="@mipmap/histtt"
+        android:fontFamily="@font/russo_one"
+        android:text="History"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.451"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.179" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/logoutBtn3"
+        android:layout_width="166dp"
+        android:layout_height="173dp"
+        android:background="@mipmap/logout"
+        android:text="Log Out"
+        android:textColor="@color/black"
+        android:textSize="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.46"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.676" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
