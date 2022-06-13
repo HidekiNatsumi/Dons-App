@@ -35,3 +35,6 @@ Button hisBtn,logoutbtn;
  });
     }
 }
+/*
+Admin page
+*/
