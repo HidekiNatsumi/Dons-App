@@ -19,4 +19,4 @@ Admin can check who has donated in the platform.
 Collaboration with DokMate23
 
 ---
-Atis Intern
+
